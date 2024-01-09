@@ -2,11 +2,13 @@ languageCode = "pl"
 languageName = "Polish"
 weight = 1
 title = "🧰 Malgori"
+contentDir = 'content/pl'
 
 [params]
   displayName = "PL"
   isoCode = "pl"
   rtl = false
+  
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"

@@ -8,5 +8,5 @@ weight: 1
 
 Witaj w poradniku opisującym używanie aplikacji Malgori! Lista dostępnych tematów
 
-## Malgori -  polski, mobilny system CMMS
+## Malgori - gather all customer reviews
 
